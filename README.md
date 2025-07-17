@@ -74,7 +74,7 @@ npm install
 # In the server directory
 npm start
 ```
-The server will start on `http://localhost:10000`
+The server will start on `http://localhost:3000`
 
 4. Start the frontend client (in a new terminal):
 ```bash

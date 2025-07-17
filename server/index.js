@@ -6,10 +6,11 @@ const fs = require('fs');
 const { nanoid } = require('nanoid');
 
 const app = express();
-const port = process.env.PORT || 10000;
+const port = process.env.PORT || 3000;
 
 const allowedOrigins = [
-  'http://localhost:10000'
+  'http://localhost:10000',
+  'http://localhost:3000'
 ];
 
 // Configure CORS
