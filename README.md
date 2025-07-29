@@ -2,7 +2,11 @@
 
 A  file transfer application that allows users to share files using single-use codes. Built with React, Node.js, and Express.
 
+## 👨‍💻 About the Developer
 
+**Janmejay Tiwari** - Full Stack Developer  
+🔗 **LinkedIn**: (https://www.linkedin.com/in/janmejay-tiwari/)  
+🌐 **Portfolio**: (https://janmejaytiwari.vercel.app/)
 
 ## Features
 
@@ -180,12 +184,18 @@ Language can be changed using the language switcher in the top-right corner.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+
+## 📄 License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+
 ## Author
 
-Janmejay
-- GitHub: [@Janmejay3108](https://github.com/Janmejay3108)
-- LinkedIn: [janmejay-tiwari](https://www.linkedin.com/in/janmejay-tiwari/)
-- Website: (https://janmejaytiwari.vercel.app/)
+**Janmejay Tiwari**  
+📧 **Email**: okrtwr3108@gmail.com 
+🔗 **LinkedIn**: [https://www.linkedin.com/in/janmejay-tiwari/](https://www.linkedin.com/in/janmejay-tiwari/)  
+🌐 **Portfolio**: [https://janmejaytiwari.vercel.app/](https://janmejaytiwari.vercel.app/)
 
 ## Acknowledgments
 
@@ -193,4 +203,10 @@ Janmejay
 - Tailwind CSS team
 - All contributors and users of the project
 
+
+## ⭐ Show Your Support
+
+If this project helped you or you learned something from it, please give it a ⭐ on GitHub!
+
+**Made with ❤️ by Janmejay Tiwari**
 
